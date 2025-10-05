@@ -24,8 +24,8 @@ cd catch-the-turtle
 
 # 🐢 Catch The Turtle
 
-This Python project is a simple and fun game built using the **Turtle module**.  
-The goal is to catch turtles that appear randomly on the screen and earn points.
+A mini game using Python's Turtle module, covered in Atıl Samancıoğlu's Python course and reinforced by me. 
+You collect points by clicking on the turtle that randomly appears on the screen. When the timer runs out, the game ends and your score is displayed.
 
 ## Features
 
